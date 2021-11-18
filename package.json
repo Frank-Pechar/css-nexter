@@ -1,7 +1,7 @@
 {
-  "name": "natours",
+  "name": "nexter",
   "version": "1.0.0",
-  "description": "Natours Website",
+  "description": "Nexter Website",
   "browserslist": "last 10 versions",
   "main": "index.js",
   "devDependencies": {
