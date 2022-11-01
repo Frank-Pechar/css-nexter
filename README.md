@@ -12,7 +12,7 @@ ARCHITECTURE:
  BEM Naming convention 
  Grid Layouts 
 
-IMPLEMENTED the FOLLOWING in SASS(SCSS):
+IMPLEMENTED the FOLLOWING in SASS(SCSS) and CSS:
 
 - responsive grids without media queries
 - nested grids
