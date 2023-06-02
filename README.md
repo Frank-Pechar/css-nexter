@@ -1,20 +1,20 @@
-# Nexter - Advanced CSS Course Project
+# Nexter Project - Real Estate Website
+# Advanced CSS - SASS/SCSS Course Project
+## Description of App Functionality, Features, and Methods
 
-Real Estate Website 
+Advanced CSS coding project I completed from Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and More by Jonas Schmedtmann.
 
-Course Coding Project I Completed.
+App can be run from: https://frank-pechar-css-nexter.netlify.app
 
-App can be run from: https://frank-pechar-nexter.netlify.app/
+## This App Uses CSS - SASS/SCSS Features Such As:
+ 
+- Architecture: SCSS: 7 – 1 Pattern for Folders and Files
+- BEM Naming convention 
+- Grid Layouts 
 
-ARCHITECTURE:
+## Coding Methods and Features Used:
 
- SCSS: 7 – 1 Pattern for Folders and Files
- BEM Naming convention 
- Grid Layouts 
-
-IMPLEMENTED the FOLLOWING in SASS(SCSS) and CSS:
-
-- responsive grids without media queries
+- responsive grid layouts without media queries
 - nested grids
 - grid with flexbox
 - complex grid gallery
