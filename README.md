@@ -8,19 +8,21 @@ App can be run from: https://frank-pechar-css-nexter.netlify.app
 
 ## App Description
 
+This App Showcases Various CSS / SASS Features and Techniques such as: Extensive Use of Grid Layouts and Formatting. SCSS: 7 – 1 Architecture Pattern for Folders and Files. BEM Naming convention. Responsive Grid Layouts and Sizing for: Images, Fonts and Text Elements • A Wide Variety of Styling and Animated Effects.
+
 ## App Functionality
 
-## This App Uses CSS - SASS/SCSS Features Such As:
- 
-- Architecture: SCSS: 7 – 1 Pattern for Folders and Files
-- BEM Naming convention 
-- Grid Layouts 
+- Hover over various buttons, text, and images for animation effects
+- Resize screen for Grid only responsive layout changes
 
 ## CSS - SASS/SCSS Features and Methods Used
 
-- responsive grid layouts without media queries
-- nested grids
-- grid with flexbox
-- complex grid gallery
+- Architecture: SCSS: 7 – 1 Pattern for Folders and Files
+- BEM Naming convention
+- Extensive Use of Grid for Layouts
+- Grid Only Responsive Layouts without Media Queries
+- Nested Grids
+- Grid with Flexbox
+- Complex Grid Photo Gallery
 - object-fit for best conversion for aspect ratio
 - ::before and ::after as grid items
