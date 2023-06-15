@@ -15,7 +15,7 @@ This App Showcases Various CSS / SASS Features and Techniques such as: Extensive
 - Hover over various buttons, text, and images for animation effects
 - Resize screen for Grid only responsive layout changes
 
-## CSS - SASS/SCSS Features and Methods Used
+## CSS - SASS/SCSS Properties, Functions, Features and Methods Used
 
 - Architecture: SCSS: 7 – 1 Pattern for Folders and Files
 - BEM Naming convention
