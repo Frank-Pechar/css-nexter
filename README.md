@@ -26,4 +26,4 @@ This App Showcases Various CSS / SASS Features and Techniques such as: Extensive
 - Complex Grid Photo Gallery
 - object-fit for best conversion for aspect ratio
 - ::before and ::after as grid items
-- @extend
+- @extend directive to share properties between different selectors
