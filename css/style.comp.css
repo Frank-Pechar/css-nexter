@@ -402,7 +402,7 @@ body {
 .footer {
   background-color: #101d2c;
   grid-column: full-start / full-end;
-  padding: 8rem 8rem 4rem; }
+  padding: 8rem 4rem 2rem; }
 
 .nav {
   list-style: none;
@@ -428,9 +428,7 @@ body {
   font-size: 1.4rem;
   color: #aaa;
   text-align: center;
-  width: 70%;
+  width: 80%;
   margin-top: 6rem;
   margin-right: auto;
   margin-left: auto; }
-  .copyright :first-child {
-    margin-bottom: 1.5rem; }
